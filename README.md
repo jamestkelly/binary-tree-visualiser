@@ -72,7 +72,8 @@ The purpose of this project is to further my own skills as a software engineer a
 
 ### Built With
 
-- [Amazon Web Services | Lambda ](https://aws.amazon.com/lambda/?p=ft&c=wa&z=2)
+- [Amazon Web Services | Amplify](https://aws.amazon.com/amplify/)
+- [Amazon Web Services | Lambda ](https://aws.amazon.com/lambda/)
 - [D3](https://d3js.org/)
 - [NodeJS](https://nodejs.org/en/)
 - [Serverless](https://www.serverless.com/)
@@ -97,7 +98,8 @@ The web application, `binary-tree-visualiser` is built using NodeJS and the D3 D
 
 For the environment variables used within the repository, you can either request from any of the contributors (if contributing to this specific web application) the **environment variables**. Alternatively, if implementing this project for your own purposes or recreating, etc. then you may find the following links useful in setting up your own environment.
 
-- [Amazon Web Services | Lambda](https://aws.amazon.com/lambda/?p=ft&c=wa&z=2)
+- [Amazon Web Services | Amplify](https://aws.amazon.com/amplify/)
+- [Amazon Web Services | Lambda](https://aws.amazon.com/lambda/)
 - [Serverless](https://www.serverless.com/)
 
 ### Installation
