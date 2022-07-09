@@ -138,6 +138,7 @@ _For more examples of binary trees, please refer to the [Rosetta Code](https://r
 ## Roadmap
 
 - [ ] Develop `binary-tree-visualiser` in its most basic form, i.e. basic binary trees in JavaScript
+  - [x] Develop a basic binary tree class, alongside any methods used to traverse, insert, etc. 
   - [ ] Develop a method to display the construction of the binary tree.
   - [ ] Add code to show the traversal of the tree.
   - [ ] Add code for the user to modify the number of nodes in the tree.
